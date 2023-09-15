@@ -1,7 +1,7 @@
 # FajardoAngel
 
 # About Me
-I am a Full Stack Developer 
+I am a full stack developer 
 
 
 # Skills
