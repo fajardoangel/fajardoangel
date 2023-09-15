@@ -15,8 +15,8 @@ JavaScript,  HTML,  CSS,  Python,  Java,  PHP,  Ruby,  Django,  React.js,  SQL, 
 
 ## 🔗 Links
 
- <p>
+ 
 
-  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://datacamp.com/portfolio/angelfajardo)
   
-<p/>
+  
+
