@@ -1,4 +1,4 @@
-# FajardoAngel
+# Angel Fajardo 
 
 # About Me
 I am a full stack developer 
