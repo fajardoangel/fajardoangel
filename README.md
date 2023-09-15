@@ -3,7 +3,7 @@
 
 
 # About Me
-Full Stuck Development 
+Full Stack Development 
 
 
 
