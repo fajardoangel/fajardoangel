@@ -18,5 +18,3 @@ Python, Java, PHP, SQL
            </a> </p>
 
   
-  
-
