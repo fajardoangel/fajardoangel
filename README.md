@@ -6,7 +6,7 @@ Web Development
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS
+JavaScript, HTML, CSS, 
 Python, Java, PHP, SQL
 
 
