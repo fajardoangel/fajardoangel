@@ -1,14 +1,9 @@
-# Angel Fajardo 
-
-
-##  About Me
-Web Development 
+# Angel Fajardo
 
 
 ##  Skills
 JavaScript, HTML, CSS, 
 Python, Java, PHP, SQL
-
 
 
 ##  Links
