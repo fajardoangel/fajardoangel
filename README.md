@@ -1,17 +1,17 @@
 # Angel Fajardo 
 
 
-## 🚀 About Me
+##  About Me
 Web Development 
 
 
-## 🛠 Skills
+##  Skills
 JavaScript, HTML, CSS, 
 Python, Java, PHP, SQL
 
 
 
-## 🔗 Links
+##  Links
 
 <p>    
    <a href="https://www.datacamp.com/portfolio/angelfajardo/">
